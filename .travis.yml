@@ -10,7 +10,7 @@ php:
 matrix:
   include:
     - php: '7.3'
-      dist: precise
+      dist: xenial
 
 notifications:
   email:
